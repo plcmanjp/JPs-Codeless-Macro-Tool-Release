@@ -1,7 +1,7 @@
 {
-  "latest": "1.0.48",
+  "latest": "1.0.49",
   "download_url": "https://plcman.tistory.com/209",
   "notes_url": "https://plcman.tistory.com/229",
-  "released": "2026-06-03",
-  "whatsnew": ["1.0.48", "1.0.47", "1.0.46"]
+  "released": "2026-06-04",
+  "whatsnew": ["1.0.49", "1.0.48", "1.0.47"]
 }
