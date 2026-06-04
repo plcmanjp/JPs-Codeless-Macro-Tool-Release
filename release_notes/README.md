@@ -52,4 +52,4 @@
 
 - **글 제목 형식**: `[릴리즈] JP's Codeless Macro Tool vX.Y.Z 패치노트`
 - **본문 하단 고정 링크**: 최신 버전 다운로드 -> https://plcman.tistory.com/209
-- **발행 후**: `./release/version.json`의 `notes_url`을 새 글 URL로 갱신
+- **발행 후**: 개별 글 URL을 통합 이력 글(`/229`)에 링크로 추가. `version.json`의 `notes_url`은 `/229` 고정이므로 갱신하지 않는다(사용자 결정 2026-06-04).
