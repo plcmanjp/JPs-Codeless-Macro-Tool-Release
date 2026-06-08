@@ -8,6 +8,8 @@
 app_config.json
 favorites.json
 logs/
+*.lock
+script/
 
 # Python 캐시
 __pycache__/
