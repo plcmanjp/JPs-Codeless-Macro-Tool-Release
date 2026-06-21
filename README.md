@@ -6,14 +6,16 @@
 
 ## 다운로드
 
-- 최신 버전 다운로드 및 사용 안내: **https://plcman.tistory.com/209**
-- 설치 파일(EXE·ZIP)은 [`exe_zip/`](exe_zip/) 폴더에서 직접 받을 수도 있습니다.
+- **최신 버전 받기(권장)**: **https://plcmanjp.github.io/download/codeless-macro-tool/**
+  항상 최신 릴리스의 `JPsCodelessMacroTool.zip`으로 연결됩니다.
+- **GitHub Releases에서 직접**: [releases/latest](../../releases/latest) — 버전 태그별 게시, 고정 자산명 `JPsCodelessMacroTool.zip`
+- 사용 안내·자세한 설명: **https://plcman.tistory.com/209**
 
 ## 저장소 구성
 
 | 경로 | 내용 |
 | --- | --- |
-| [`exe_zip/`](exe_zip/) | 배포용 실행 파일(EXE)과 압축본(ZIP) |
+| [Releases](../../releases) | 배포 실행 파일 — 버전 태그별 게시, 고정 자산명 `JPsCodelessMacroTool.zip`(`releases/latest`가 항상 최신) |
 | [`version.json`](version.json) | 업데이트 매니페스트 — 프로그램이 실행 시 최신 버전을 자동 확인 |
 | [`release_notes/`](release_notes/) | 버전별 사용자 릴리스 노트(자연어 설명) |
 
@@ -24,6 +26,12 @@
 <!-- RELEASE-INDEX:START -->
 | 버전 | 출시일 | 요약 |
 | --- | --- | --- |
+| [v1.3.5](release_notes/v1.3.5.md) | - | 데이터 보호: 변경된 매크로에서 "새로 만들기"나 저장을 할 때 저장이 실패하거나 이름 입력을 취소하면 작성... |
+| [v1.3.4](release_notes/v1.3.4.md) | 2026-06-16 | 키 입력 관련 스텝을 추가할 때 더 편하고 실수 없이 쓸 수 있도록 다듬은 업데이트입니다. |
+| [v1.3.3](release_notes/v1.3.3.md) | 2026-06-15 | 스텝 편집 창의 마우스 액션 화면을 더 보기 좋게 다듬은 업데이트입니다. |
+| [v1.3.2](release_notes/v1.3.2.md) | 2026-06-15 | 업데이트 알림에서 다운로드 페이지로 바로 이동할 수 있도록 편의를 개선한 업데이트입니다. |
+| [v1.3.1](release_notes/v1.3.1.md) | 2026-06-15 | 게임·웹·일반 프로그램 입력 호환성을 강화하고, 백그라운드 입력·전체화면 화면 인식·마우스 상대 이동 등 새... |
+| [v1.3.0](release_notes/v1.3.0.md) | - | 출시일: (v1.3.0 배포 시 확정) |
 | [v1.2.1](release_notes/v1.2.1.md) | 2026-06-12 | 프로그램의 보안과 안정성을 강화하고, 변수 입력 편의와 여러 동작을 개선한 업데이트입니다. |
 | [v1.2.0](release_notes/v1.2.0.md) | 2026-06-08 | 스텝을 추가할 때 편집창을 열고 종류를 다시 고르는 2단계 과정을 없애고, 메뉴에서 원하는 동작을 바로 선택... |
 | [v1.1.0](release_notes/v1.1.0.md) | 2026-06-07 | 화면에 표시된 텍스트를 읽어 변수에 저장하고, 그 내용으로 조건 분기하거나 마우스를 정확한 위치로 이동시키는... |
