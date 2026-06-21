@@ -21,7 +21,7 @@
 
 ## 버전별 릴리스 노트
 
-> 아래 표는 `.claude/scripts/gen_release_notes_index.py`가 자동 생성합니다. 직접 편집하지 마세요.
+> 아래 표는 자동 생성됩니다. 직접 편집하지 마세요.
 
 <!-- RELEASE-INDEX:START -->
 | 버전 | 출시일 | 요약 |
