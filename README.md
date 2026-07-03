@@ -6,7 +6,7 @@
 
 ## 다운로드
 
-- **최신 버전 받기(권장)**: **https://plcmanjp.github.io/download/codeless-macro-tool/**
+- **최신 버전 받기(권장)**: **https://plcmanjp.github.io/codeless-macro-tool/download/**
   항상 최신 릴리스의 `JPsCodelessMacroTool.zip`으로 연결됩니다.
 - **GitHub Releases에서 직접**: [releases/latest](../../releases/latest) — 버전 태그별 게시, 고정 자산명 `JPsCodelessMacroTool.zip`
 - 사용 안내·자세한 설명: **https://plcman.tistory.com/209**
@@ -26,6 +26,8 @@
 <!-- RELEASE-INDEX:START -->
 | 버전 | 출시일 | 요약 |
 | --- | --- | --- |
+| [v1.4.0](release_notes/v1.4.0.md) | - | 다국어 지원(한국어/영어): 옵션에서 사용할 언어를 고를 수 있습니다. |
+| [v1.3.7](release_notes/v1.3.7.md) | - | 재생 안정성: 매크로를 정지(F10)한 직후 곧바로 다시 재생할 때 드물게 발생할 수 있던 오류와 입력이 두... |
 | [v1.3.6](release_notes/v1.3.6.md) | - | 안정성 보강: 재생 중지/오류 시 눌린 키·마우스 버튼 OS 고착(release 짝 누락)을 방지하고, 실행... |
 | [v1.3.5](release_notes/v1.3.5.md) | - | 데이터 보호: 변경된 매크로에서 "새로 만들기"나 저장을 할 때 저장이 실패하거나 이름 입력을 취소하면 작성... |
 | [v1.3.4](release_notes/v1.3.4.md) | 2026-06-16 | 키 입력 관련 스텝을 추가할 때 더 편하고 실수 없이 쓸 수 있도록 다듬은 업데이트입니다. |

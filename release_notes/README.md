@@ -9,5 +9,5 @@
 
 ## 다운로드
 
-- 최신 버전 받기: **https://plcmanjp.github.io/download/codeless-macro-tool/**
+- 최신 버전 받기: **https://plcmanjp.github.io/codeless-macro-tool/download/**
 - 사용 안내·자세한 설명: **https://plcman.tistory.com/209**
