@@ -6,18 +6,25 @@
 
 ## 다운로드
 
-- **최신 버전 받기(권장)**: **https://plcmanjp.github.io/codeless-macro-tool/download/**
-  항상 최신 릴리스의 `JPsCodelessMacroTool.zip`으로 연결됩니다.
-- **GitHub Releases에서 직접**: [releases/latest](../../releases/latest) — 버전 태그별 게시, 고정 자산명 `JPsCodelessMacroTool.zip`
+**Microsoft Store에서 받으세요.**
+
+- **최신 버전 받기(권장)**: **https://apps.microsoft.com/detail/9NXX9L2ZW52W**
+  v1.4.0부터 Microsoft Store가 배포 주채널입니다. 설치 후 업데이트는 **스토어가 자동으로 처리**하므로 따로 받을 필요가 없습니다.
+- 다운로드 페이지 **https://plcmanjp.github.io/codeless-macro-tool/download/** 도 위 스토어 페이지로 연결됩니다.
 - 사용 안내·자세한 설명: **https://plcman.tistory.com/209**
+- 통합 버전 이력: **https://plcman.tistory.com/229**
+
+### 포터블(zip) 버전에 대해
+
+GitHub Releases의 포터블 zip은 **`v1.4.0`에서 동결**되었습니다. 이후 버전(`v1.4.1` 이상)의 새 기능과 수정은 **Microsoft Store 판에만** 반영되므로, 일반 사용자는 스토어 설치를 권장합니다. 설치 없이 실행해야 하는 등 포터블이 꼭 필요한 경우에만 [releases/latest](../../releases/latest)의 `JPsCodelessMacroTool.zip`을 사용하세요.
 
 ## 저장소 구성
 
 | 경로 | 내용 |
 | --- | --- |
-| [Releases](../../releases) | 배포 실행 파일 — 버전 태그별 게시, 고정 자산명 `JPsCodelessMacroTool.zip`(`releases/latest`가 항상 최신) |
-| [`version.json`](version.json) | 업데이트 매니페스트 — 프로그램이 실행 시 최신 버전을 자동 확인 |
-| [`release_notes/`](release_notes/) | 버전별 사용자 릴리스 노트(자연어 설명) |
+| [Releases](../../releases) | 포터블 zip 배포 — `v1.4.0` 동결(고정 자산명 `JPsCodelessMacroTool.zip`). 최신 기능은 Microsoft Store 판에 있습니다 |
+| [`version.json`](version.json) | 업데이트 매니페스트 — `v1.4.0` 정지본. 현재 업데이트 확인은 Microsoft Store가 담당합니다 |
+| [`release_notes/`](release_notes/) | 버전별 사용자 릴리스 노트(자연어 설명) — 스토어 배포분 포함 최신까지 계속 갱신됩니다 |
 
 ## 버전별 릴리스 노트
 
