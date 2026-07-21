@@ -18,10 +18,18 @@
 
 GitHub Releases의 포터블 zip은 **`v1.4.0`에서 동결**되었습니다. 이후 버전(`v1.4.1` 이상)의 새 기능과 수정은 **Microsoft Store 판에만** 반영되므로, 일반 사용자는 스토어 설치를 권장합니다. 설치 없이 실행해야 하는 등 포터블이 꼭 필요한 경우에만 [releases/latest](../../releases/latest)의 `JPsCodelessMacroTool.zip`을 사용하세요.
 
+## 사용자 매뉴얼
+
+기능별 사용법을 정리한 **[사용자 매뉴얼](manual/)** 을 이 저장소에서 바로 읽을 수 있습니다.
+처음이라면 [0. 목록](manual/0.%20%EB%AA%A9%EB%A1%9D.md)에서 전체 구성을 먼저 확인하세요.
+
+> `manual/`은 개발 저장소의 원본에서 자동 발행되는 사본입니다. 내용 수정 요청은 [이슈](../../issues)로 남겨 주세요.
+
 ## 저장소 구성
 
 | 경로 | 내용 |
 | --- | --- |
+| [`manual/`](manual/) | 사용자 매뉴얼(기능별 사용법) — 개발 저장소 원본에서 자동 발행 |
 | [Releases](../../releases) | 포터블 zip 배포 — `v1.4.0` 동결(고정 자산명 `JPsCodelessMacroTool.zip`). 최신 기능은 Microsoft Store 판에 있습니다 |
 | [`version.json`](version.json) | 업데이트 매니페스트 — `v1.4.0` 정지본. 현재 업데이트 확인은 Microsoft Store가 담당합니다 |
 | [`release_notes/`](release_notes/) | 버전별 사용자 릴리스 노트(자연어 설명) — 스토어 배포분 포함 최신까지 계속 갱신됩니다 |
